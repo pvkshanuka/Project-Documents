@@ -1,0 +1,26 @@
+HOW TO USE
+
+	Visitors
+		How to Search Channellings
+		How to Register on Medicare
+
+	Clients/General Users
+		How to Update Personnl Details
+		How to Search Appointments
+		How to Delete Appointments
+
+	Managers
+		How to Update Personnl Details
+		How to Add New Manager
+		How to Add New Doctor
+		How to Add New Channelling
+		How to Search Channellings
+		How to Manage Channellings
+
+	Admins
+		How to Update Personnl Details
+		How to Add New Admin
+		How to Add New Doctor
+		How to Add New Hospital
+		How to Search Hospitals
+		How to Manage Doctors

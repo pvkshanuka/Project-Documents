@@ -1,0 +1,16 @@
+HOW IT WORKS
+
+Used Technologies
+•	Maven
+•	Spring boot 
+•	MySql
+•	Spring Data JPA
+•	Spring Mail
+•	OAuth2
+•	Eureka Discovery Service
+•	Angular
+•	Docker
+
+How works
+	
+	
