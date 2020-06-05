@@ -12,6 +12,11 @@ P {
   font-size: 15px;
 }
 
+img[src*='#left'] {
+    float: left;
+    padding-right: 5px;
+}
+
 h1,
 h2,
 h3,
@@ -343,6 +348,11 @@ header.sticky-top {
   font-size: 15px;
 }
 
+.navbar .nav-item .nav-link:hover {
+  background:#FFEF69;
+  font-weight: bold;
+}
+
 .navbar .dropdown:hover .dropdown-menu {
   visibility: visible;
   opacity: 1;
@@ -364,6 +374,11 @@ header.sticky-top {
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
   background: var(--white-color);
+}
+
+.navbar-brand-hover:hover{
+  font-weight: bolder;
+  color: #D1BB02;
 }
 
 @media (max-width: 768px) {
