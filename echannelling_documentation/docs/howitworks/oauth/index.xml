@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oauth 2 on Medicare</title>
+    <link>https://examplesite.com/howitworks/oauth/</link>
+    <description>Recent content in Oauth 2 on Medicare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 17:03:27 +0638</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/howitworks/oauth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
