@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Medicare</title>
-    <link>https://pvkshanuka.github.io/Project-Documents/categories/</link>
+    <link>http://ec2-13-127-26-38.ap-south-1.compute.amazonaws.com/categories/</link>
     <description>Recent content in Categories on Medicare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     
-	<atom:link href="https://pvkshanuka.github.io/Project-Documents/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ec2-13-127-26-38.ap-south-1.compute.amazonaws.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

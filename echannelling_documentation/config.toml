@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://pvkshanuka.github.io/Project-Documents/"
+baseURL = "http://ec2-13-127-26-38.ap-south-1.compute.amazonaws.com/"
 # theme
 theme = "dot"
 # site title

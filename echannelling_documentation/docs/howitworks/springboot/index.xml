@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring Boot on Medicare</title>
-    <link>https://pvkshanuka.github.io/Project-Documents/howitworks/springboot/</link>
+    <link>http://ec2-13-127-26-38.ap-south-1.compute.amazonaws.com/howitworks/springboot/</link>
     <description>Recent content in Spring Boot on Medicare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     <lastBuildDate>Fri, 05 Jun 2020 17:03:27 +0638</lastBuildDate>
     
-	<atom:link href="https://pvkshanuka.github.io/Project-Documents/howitworks/springboot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ec2-13-127-26-38.ap-south-1.compute.amazonaws.com/howitworks/springboot/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
